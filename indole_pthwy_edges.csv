@@ -1,0 +1,24 @@
+﻿Source,Target,Rxn_ID,Rxn_Name,GPR
+L-Tryptophan,Protein,e_Protein,Protein Fate,
+L-Tryptophan,Indole-3-Pyruvate,TRPTA,Tryptophan Transaminase,A0A7S7FP03 or A0A7S7JHC6
+L-Tryptophan,L-Glutamate,TRPTA,Tryptophan Transaminase,A0A7S7FP03 or A0A7S7JHC6
+2-Oxoglutarate,Indole-3-Pyruvate,TRPTA,Tryptophan Transaminase,A0A7S7FP03 or A0A7S7JHC6
+2-Oxoglutarate,L-Glutamate,TRPTA,Tryptophan Transaminase,A0A7S7FP03 or A0A7S7JHC6
+Indole,L-Tryptophan,TRPS2,tryptophan synthase (indole),A0A7S7FLT8 and A0A7S7FLX1
+Serine,L-Tryptophan,TRPS2,tryptophan synthase (indole),A0A7S7FLT8 and A0A7S7FLX1
+C-(3-Indolyl)-glycerol 3-phosphate,Indole,TRPS3,Tryptophan synthase (indoleglycerol phosphate),A0A7S7FLX1 or A0A7S7FLT8
+C-(3-Indolyl)-glycerol 3-phosphate,Glyceraldehyde 3-phosphate,TRPS3,Tryptophan synthase (indoleglycerol phosphate),A0A7S7FLX1 or A0A7S7FLT8
+Indole-3-Pyruvate,Indole-3-Acetaldehyde,INDPYRD,indole-3-pyruvate to indole-3-acetaldehyde,A0A7S7FMK2
+Indole-3-Pyruvate,Indole-3-Acetate,metacyc_RXNDQC-2,ndole-3-pyruvate to indole-3-acetate,
+Indole-3-Acetaldehyde,Tryptophol,ALCD26xi,indole-3-acetaldegyde to tryptophol ,
+Indole-3-Acetaldehyde,Indole-3-Acetate,ALDD20x,indole-3-acetaldehyde to indole-3-acetate ,
+Tryptophol,EXTERNAL,IND3ETHt,export of tryptophol ,
+Indole-3-Acetate,EXTERNAL,IND3ACt2r,transport of indole-3-acetate ,
+Indole-3-Acetate,Indole-3-Carboxaldehyde,IAA_I3A,Indole-3-acetic acid decarboxylating dehydrogenase ,
+Indole-3-Carboxaldehyde,EXTERNAL,transI3A,transport of I3A,
+C-(3-Indolyl)-glycerol 3-phosphate,L-Tryptophan,TRPS1,Tryptophan synthase (indoleglycerol phosphate),A0A7S7FLX1 or A0A7S7FLT8
+L-Serine,L-Tryptophan,TRPS1,Tryptophan synthase (indoleglycerol phosphate),A0A7S7FLX1 or A0A7S7FLT8
+C-(3-Indolyl)-glycerol 3-phosphate,Glyceraldehyde 3-phosphate,TRPS1,Tryptophan synthase (indoleglycerol phosphate),A0A7S7FLX1 or A0A7S7FLT8
+L-Serine,Glyceraldehyde 3-phosphate,TRPS1,Tryptophan synthase (indoleglycerol phosphate),A0A7S7FLX1 or A0A7S7FLT8
+EXTERNAL ,L-Tryptophan,TRPt2r,Import of Tryptophan ,A0A809MYY2
+Chorismate_PTHWY,C-(3-Indolyl)-glycerol 3-phosphate,PRAIi,Shikimate-Chorismate to Trp Precursors,
